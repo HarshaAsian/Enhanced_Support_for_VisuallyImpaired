@@ -1,8 +1,0 @@
-Flask
-Werkzeug
-moviepy
-opencv-python
-gtts
-torch
-nltk
-transformers
